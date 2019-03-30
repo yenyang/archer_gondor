@@ -60,4 +60,25 @@
 			<Asset>SV_EnglishLongbowman.dds</Asset>
 		</Row>
 	</ArtDefine_StrategicView>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_CROSSBOWMAN_GONDOR</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>Archer</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>	
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_CROSSBOWMAN_GONDOR</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_ARCHER_GONDOR</UnitMemberInfoType>
+			<NumMembers>12</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_CROSSBOWMAN_GONDOR</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_EnglishLongbowman.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
 </GameData>
